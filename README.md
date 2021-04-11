@@ -2,7 +2,7 @@
 A web radio for M5Atom, switch between radios with button
 
 I mixed two arduino radio web sketches to make this one.
-(the m5stick radio sketche and the sketche webradio for esp3866 and esp32)
+(the m5stick radio sketch and the sketch webradio for esp3866 and esp32)
 The out pin for the sound is G22
 
 It allows to use the M5atom as a wab radio and switch between different urls with the only button.
