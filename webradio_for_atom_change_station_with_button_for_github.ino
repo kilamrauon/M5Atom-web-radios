@@ -17,6 +17,7 @@
 //  Required: Arduino library ESP8266Audio 1.60
 //  Dependency: TFTTerminal.h
 //
+//modified version to use the M5atom and change radio station with button
 
 // Enter your WiFi, Station, button settings here:
 const char *SSID = "SSID";
